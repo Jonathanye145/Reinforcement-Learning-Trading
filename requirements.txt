@@ -1,0 +1,18 @@
+
+# Core ML & Data Handling
+pandas
+numpy
+torch
+transformers
+scikit-learn
+stable-baselines3[extra]
+gym
+
+# Data Sources
+yfinance
+pandas_ta
+requests
+
+# Application & Utilities
+streamlit
+python-dotenv
